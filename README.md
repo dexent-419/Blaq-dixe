@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to dexent-419
 
-You can use the [editor on GitHub](https://github.com/dexent-419/Blaq-dixe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on dexent-419](https://dixehub.com/dexent-419/Blaq-dixe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
